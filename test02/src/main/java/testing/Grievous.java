@@ -7,6 +7,8 @@ public class Grievous {
 
 		System.out.println("you fool");
 		System.out.println("i've been trained in your jedi arts by count doku");
+		
+		System.out.println("kill him");
 	}
 
 }
